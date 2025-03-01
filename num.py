@@ -7,6 +7,7 @@ num = float(input("Enter a number: "))
 # Check if even or odd
 if num % 2 == 0:
     print(f"{num} is even.")
+    print("even is printe.")
 else:
     print(f"{num} is odd.")
 
